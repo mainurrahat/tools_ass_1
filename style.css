@@ -1,0 +1,77 @@
+.body {
+    height: fit-content;
+    width: fit-content;
+    font-size: larger;
+    background-color: gray;
+    margin-left: 35%;
+    margin-top: 5%;
+    padding: 50px;
+    border: 25px solid;
+    border-image: linear-gradient(to right, rgba(70, 177, 211, 255), rgba(6, 55, 111, 255));
+    border-image-slice: 1;
+    border-radius: 15px;
+
+}
+
+
+.btn-fb {
+    background-color: cornflowerblue;
+    height: 50px;
+    width: 190px;
+    border-radius: 15px;
+    font-size: larger;
+    /* border: none; */
+    margin-right: 10px;
+
+}
+
+.btn-ggl {
+    background-color: white;
+    height: 50px;
+    width: 190px;
+    border-radius: 15px;
+    font-size: larger;
+    /* border: none; */
+
+
+
+}
+
+.username_input {
+    border-radius: 10px;
+    height: 40px;
+    width: 400px;
+    border: none;
+}
+
+.pass_input {
+    background-color: white;
+    border-radius: 10px;
+    height: 40px;
+    width: 400px;
+    border: none;
+
+}
+
+.forgot {
+    text-decoration: none;
+}
+
+.sign_btn {
+    height: 40px;
+    width: 400px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: black;
+    color: white;
+
+}
+
+.not {
+    padding-left: 120px
+}
+
+.bold {
+    font-weight: 900;
+}
