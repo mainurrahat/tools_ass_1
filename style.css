@@ -4,7 +4,7 @@
     font-size: larger;
     background-color: gray;
     margin-left: 35%;
-    margin-top: 5%;
+    margin-top: 0%;
     padding: 50px;
     border: 25px solid;
     border-image: linear-gradient(to right, rgba(70, 177, 211, 255), rgba(6, 55, 111, 255));
@@ -53,9 +53,7 @@
 
 }
 
-.forgot {
-    text-decoration: none;
-}
+
 
 .sign_btn {
     height: 40px;
